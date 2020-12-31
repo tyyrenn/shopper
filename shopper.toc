@@ -1,0 +1,9 @@
+## Interface: 90002
+## Version: 0.1
+## Title: Shopper
+## Author: Tyyrenn-Zul'jin (US)
+## SavedVariables: shopperDB
+## OptionalDeps: Ace3
+## X-Embeds: Ace3
+embeds.xml
+shopper.lua
